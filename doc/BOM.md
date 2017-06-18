@@ -1,1 +1,2 @@
 # Bill of materials
+- [Quimat 3D Printer Controller Kit for Arduino Mega 2560 Uno R3 Starter Kits +RAMPS 1.4 + 5pcs A4988 Stepper Motor Driver + LCD 12864 for Arduino Reprap](https://www.amazon.co.uk/dp/B06XSZ9M77). This is a common RAMPS controller easily available everywhere, not the cheapest but well known and respected for its reliability. Available from fareast and west retailers in various formats
