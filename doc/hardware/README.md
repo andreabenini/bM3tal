@@ -2,4 +2,4 @@
 
 Here're few steps to build the hardware stuff
 
-- ![Motherboard box](electronics.box.md)
+- [Motherboard box](electronics.box.md)
