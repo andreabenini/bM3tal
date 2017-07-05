@@ -37,3 +37,7 @@ rigidity to the upper deck.
 - Here're the components, everything is ready to be assembled
 ![power board and arduino](electronics.box.08.power.arduino.jpg)
 
+- Arduino on top and connected to the powerline board. The jack (+5V inside, GND outside) on the arduino board comes from the +5V/GND below.
+Connection with the ATX PSU. 24pin and additional 4pin connector (+12V addon voltage) connected to the powerline. RAMPS shield has been
+mounted on top of the Arduino but it's not connected to the voltage
+![Powerline,Arduino,RAMPS](electronics.box.09.mounted.jpg)
