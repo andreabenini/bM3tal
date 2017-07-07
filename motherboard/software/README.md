@@ -61,11 +61,15 @@ Here are steps required for loading bM3tal firmware, this is more a getting star
   - Remove comment (two leading '//') from
     `#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER`
     to enable *LCD 12864* display supplied with the kit
+- Save files and get ready to load this new firmware
 
 ---
 <br/>
 <br/>
 
 ## Loading project
+- From Arduino IDE press the right arrow icon button<br/>
+  ![upload firmware](README.03.uploadingfirmware.png)<br/>
+  and in a couple of seconds you might see the compilation process followed by the firmware uploading procedure. In 10-15secs you can see something moving on the display, no matter if you didn't connected motors or anything else. Arduino board should boot and you can see something on your beautiful 12864 LCD full graphic display
 - 3D Printer Controller Kit for Arduino Mega 2560 Uno R3 Starter Kits +RAMPS 1.4 + 5pcs A4988 Stepper Motor Driver + LCD 12864 for Arduino Reprap
 
