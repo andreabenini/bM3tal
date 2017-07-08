@@ -68,6 +68,7 @@ Here are steps required for loading bM3tal firmware, this is more a getting star
 <br/>
 
 ## Loading project
+**WARNING:** it's better to supply proper voltage to the arduino and RAMPS board *before* going further with these steps, if you didn't already read please take a look at [Electronics Cabling and Power supply](../electronics/README.md)
 - From Arduino IDE press the right arrow icon button<br/>
   ![upload firmware](README.03.uploadingfirmware.png)<br/>
   and in a couple of seconds you might see the compilation process followed by the firmware uploading procedure. In 10-15secs you can see something moving on the display, no matter if you didn't connected motors or anything else. Arduino board should boot and you can see something on your beautiful 12864 LCD full graphic display
