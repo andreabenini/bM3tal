@@ -4,4 +4,4 @@ Rated values for this power supply are +12V/15A, +5V/17A for an overall 350W usa
 
 ## PC Power Supply Mod
 ![Power Supply Pinout](PowerSupplyPinout.png)
-In PowerSupplyPinout.png file there's the main connector pinout as a reference for a classic mod as seen [here](http://makezine.com/projects/computer-power-supply-to-bench-power-supply-adapter/). I haven't cut the PSU cables so I have decided to create a connector adapter between the PSU and the Arduino Shield. This power supply provides GND,5V,12V, other voltages aren't needed at all. See [Power Supply Unit mods applied here](electronics/01.PSU-arduino-shield.md)
+In PowerSupplyPinout.png file there's the main connector pinout as a reference for a classic mod as seen [here](http://makezine.com/projects/computer-power-supply-to-bench-power-supply-adapter/). I haven't cut the PSU cables so I have decided to create a connector adapter between the PSU and the Arduino Shield. This power supply provides GND,5V,12V, other voltages aren't needed at all. See hints on [How to recycle a generic ATX Power Supply Unit for it](electronics/01.PSU-arduino-shield.md)
