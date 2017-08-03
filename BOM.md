@@ -5,6 +5,9 @@ These are official materials I have planned to use, it will be the final constru
 - #2 Square steel tube from local hardware store: 30x30x200(mm) ~17.00€ [each]
 - #2 Aluminium BA rod from local hardware store: 8x1000(mm) ~4.00€ [each]
 - #1 Flat aluminium milled plate (used on baseboards or steps) from local hardware store: 25x1000(mm) ~2.50€
+- #10 Aluminum GT2 Timing Belt Pulley 20 Teeth Bore 5mm Width 6mm (two spares) [amazon](https://www.amazon.it/gp/product/B06VSL9W9L/ref=oh_aui_detailpage_o00_s03?ie=UTF8&psc=1)
+- #1 5 Meters GT2 2mm pitch 6mm wide Timing Belt [amazon](https://www.amazon.com/Meters-pitch-wide-Timing-printer/dp/B00F2IQNX8/ref=sr_1_3?ie=UTF8&qid=1501765526&sr=8-3&keywords=5m+gt2+belt)
+- #10 LM8UU Linear Ball Bearing Bush Bushing for 8mm Rod [amazon](https://www.amazon.com/Meters-pitch-wide-Timing-printer/dp/B00F2IQNX8/ref=sr_1_3?ie=UTF8&qid=1501765526&sr=8-3&keywords=5m+gt2+belt)
 <br/><br/>
 ---
 ### Testing materials and hints for the frame
