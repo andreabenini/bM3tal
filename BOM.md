@@ -11,6 +11,7 @@ These are official materials I have planned to use, it will be the final constru
 ### Purchased or available materials
 - #2 Aluminium BA rod from local hardware store: 8x1000(mm) ~4.00€ [each]
 - #1 Flat aluminium milled plate (used on baseboards or steps) from local hardware store: 25x1000(mm) ~2.50€
+- #5 Flat inox steel for joints [90x90mm] from scrap materials, adapt and cut it to the right shape. for free
 ### Testing materials and hints for the frame
 These are spare parts I have, something I'd like to buy, wish lists, and various tests, always a lot of changes there.
 - Square steel tube 20x20x200mm - 12.50 €
