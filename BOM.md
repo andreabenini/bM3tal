@@ -6,6 +6,7 @@ These are official materials I have planned to use, it will be the final constru
 - #10 Aluminum GT2 Timing Belt Pulley 20 Teeth Bore 5mm Width 6mm (two spares) [amazon](https://www.amazon.it/gp/product/B06VSL9W9L/ref=oh_aui_detailpage_o00_s03?ie=UTF8&psc=1)
 - #1 5 Meters GT2 2mm pitch 6mm wide Timing Belt [amazon](https://www.amazon.com/Meters-pitch-wide-Timing-printer/dp/B00F2IQNX8/ref=sr_1_3?ie=UTF8&qid=1501765526&sr=8-3&keywords=5m+gt2+belt)
 - #10 LM8UU Linear Ball Bearing Bush Bushing for 8mm Rod [amazon](https://www.amazon.com/Meters-pitch-wide-Timing-printer/dp/B00F2IQNX8/ref=sr_1_3?ie=UTF8&qid=1501765526&sr=8-3&keywords=5m+gt2+belt)
+- #10 Machifit 10pcs 6x17x6mm 606zz Steel Sealed Shielded Deep Groove Ball Bearings [banggood](https://www.banggood.com/10pcs-6x17x6mm-606zz-Steel-Sealed-Shielded-Deep-Groove-Ball-Bearings-p-1009701.html)
 <br/><br/>
 ---
 ### Purchased or available materials
