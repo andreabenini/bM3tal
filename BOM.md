@@ -12,6 +12,8 @@ These are official materials I have planned to use, it will be the final constru
 ### Already purchased or available materials
 - #2 Aluminium Bar rod from local hardware store: 8x1000(mm) ~4.00€ [each]
 - #1 Aluminium steel bar 40x15x1000(mm) ~2-3€(?)
+- #1 U-shaped aluminium bar 15x15x1000(mm) ~3€
+- #1 U-shaped steel mount bar 80x80x80(mm) ~3€
 - #1 Flat aluminium milled plate (used for baseboards or steps) from local hardware store: 25x1000(mm) ~2.50€
 - #5 Flat inox steel for joints [90x90mm] from scrap materials, adapt and cut it to the right shape. for free
 ### Testing materials and hints for the frame
