@@ -22,4 +22,3 @@ These are spare parts I have, something I'd like to buy, wish lists, and various
 - Square steel tube 30x20x200mm - 13.50 €
 - Square steel tube 40x20x200mm - 17.00 €
 - Reinforced steel rod ø8x200mm - 5.80 €
-- Threaded steel rod ø8x200mm - 3.70 €
