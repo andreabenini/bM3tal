@@ -19,7 +19,4 @@ These are official materials I have planned to use, it will be the final constru
 - #5 Flat inox steel for joints [90x90mm] from scrap materials, adapt and cut it to the right shape. for free
 ### Testing materials and hints for the frame
 These are spare parts I have, something I'd like to buy, wish lists, and various tests, always a lot of changes there.
-- Square steel tube 20x20x200mm - 12.50 €
-- Square steel tube 30x20x200mm - 13.50 €
-- Square steel tube 40x20x200mm - 17.00 €
 - Reinforced steel rod ø8x200mm - 5.80 €
