@@ -9,19 +9,19 @@
     - Connector: Red, Yellow, Blue, Orange
   - Model Number: 23KM-K207-03V
   - Minebea-Matsushita motor corporation
-  - **Voltage/Power Consumption ???**
+  - **Voltage/Power Consumption ?**
   - 1.8°, 2.4V, 2A
 - P/N 78800 Rev.C
   - **(1)** piece
   - 6 wires
   - 23KM-K207-03V
   - Minebea-Matsushita motor corporation
-  - **Voltage/Power Consumption ???**
+  - **Voltage/Power Consumption ?**
 - P/N 78800
   - **(1)** piece
   - 4 wires
   - STP-58D111
-  - **Voltage/Power Consumption ???**
+  - **Voltage/Power Consumption ?**
 
 
 - P/N No. T8814
@@ -30,7 +30,7 @@
   - R 98-11
   - Type 23LM-C038-04
   - Minebea CO. LTD
-  - **Voltage/Power Consumption ???**
+  - **Voltage/Power Consumption ?**
 
 
 
@@ -41,7 +41,7 @@
   - 3.75° / Step 3.0 &ohm;
   - 18291G
   - Shinano Kenshi Co., LTD China
-  - **Voltage/Power Consumption ???**
+  - **Voltage/Power Consumption ?**
 - P/N 210799-001RevE
   - **(1)** piece
   - 6 wires
@@ -49,4 +49,4 @@
   - NO. T8709-01
   - 7336F
   - Minebea Motor Manufacturing Corp.
-  - **Voltage/Power Consumption ???**
+  - **Voltage/Power Consumption ?**
