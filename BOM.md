@@ -9,10 +9,10 @@ These are official materials I have planned to use, it will be the final constru
 - #10 LM8UU Linear Ball Bearing Bush Bushing for 8mm Rod [amazon](https://www.amazon.com/Meters-pitch-wide-Timing-printer/dp/B00F2IQNX8/ref=sr_1_3?ie=UTF8&qid=1501765526&sr=8-3&keywords=5m+gt2+belt)
 - #10 Machifit 10pcs 6x17x6mm 606zz Steel Sealed Shielded Deep Groove Ball Bearings [banggood](https://www.banggood.com/10pcs-6x17x6mm-606zz-Steel-Sealed-Shielded-Deep-Groove-Ball-Bearings-p-1009701.html)
 - #1 pack (4 cables) Bipolar Stepper Motor Cables for Reprap 3D Printers CNC Machines 1m Pack of 4 [amazon](https://www.amazon.co.uk/BESTOMZ-Bipolar-Stepper-Printers-Machines/dp/B0746GJ7BR/ref=sr_1_fkmr0_2?ie=UTF8&qid=1512463048&sr=8-2-fkmr0&keywords=bestomzm+cable+stepper) 
+- #2 Aluminium Bar rod from local hardware store: 8x1000(mm) ~4.00€ [each]
 <br/><br/>
 ---
 ### Already purchased or available materials
-- #2 Aluminium Bar rod from local hardware store: 8x1000(mm) ~4.00€ [each]
 - #1 Aluminium steel bar 40x15x1000(mm) ~2-3€(?)
 - #1 U-shaped aluminium bar 15x15x1000(mm) ~3€
 - #1 U-shaped steel mount bar 80x80x80(mm) ~3€
