@@ -50,3 +50,8 @@
   - 7336F
   - Minebea Motor Manufacturing Corp.
   - **Voltage/Power Consumption ?**
+
+
+## Electronics
+- CNC Shield V3 Expansion Board + 4xA4988 Step Motor Driver Module + UNO R3 Board kit for Arduino 3D Printer<br>
+  https://www.amazon.com/gp/product/B07HF391GN/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
