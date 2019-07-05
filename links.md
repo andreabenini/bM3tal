@@ -5,3 +5,10 @@
 this seems the way to go
 - [How to make mini CNC plotter 2D using scrap DVD](https://www.youtube.com/watch?v=Q5ma1HDuotk)<br>
   Small, clean and cheap Plotter/cnc with spare scap parts from savaged DVD drives, there're a lot of them but this one seems really clean and accurated
+
+
+## CNC
+- **Make Your Own DIY CNC**<br>
+  https://www.instructables.com/id/Make-Your-Own-DIY-CNC/<br>
+  This seems to be a clean and nice project, a must watch for a generic CNC build
+
