@@ -11,4 +11,6 @@ this seems the way to go
 - **Make Your Own DIY CNC**<br>
   https://www.instructables.com/id/Make-Your-Own-DIY-CNC/<br>
   This seems to be a clean and nice project, a must watch for a generic CNC build
-
+- **DIY PCB/CNC desk plotter**<br>
+  http://morethanuser.blogspot.com/2019/07/diy-cnc-desk-plotter.html<br>
+  Outstanding CNC, expressly built for PCB boards. It seems to be created on the fly with scrap materials and classic tools. No projects published, homemade material on the cheap. Impressive photo album. Lots of manual work and handmade materials, it could take hours but it seems to be affordable. Stock Router spindle, not cheap (but nice)
