@@ -31,7 +31,11 @@
   - Type 23LM-C038-04
   - Minebea CO. LTD
   - **Voltage/Power Consumption ?**
-
+  - Wirings in series for bipolar mode (here's my couples list)
+    - **orange**(to brown)  <-->  Green _(A1)_
+    - _(A2)_ Blue           <-->  **Brown**(to orange)
+    - **red**(to yellow)    <-->  Black _(B1)_
+    - _(B2)_ White          <-->  **yellow**(to red)
 
 
 - P/N 210799-003
