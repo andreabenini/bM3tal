@@ -5,7 +5,9 @@
 this seems the way to go
 - [How to make mini CNC plotter 2D using scrap DVD](https://www.youtube.com/watch?v=Q5ma1HDuotk)<br>
   Small, clean and cheap Plotter/cnc with spare scap parts from savaged DVD drives, there're a lot of them but this one seems really clean and accurated
-
+- [From IKEA Moppe to 3D Printer](https://hackaday.io/project/12965-from-ikea-moppe-to-3d-printer)<br>
+  Forget about Moppe but building phases and execution are outstanding. Really well crafted device with interesting tips
+  on construction and hints for getting ready made parts for it
 
 ## CNC
 - **Make Your Own DIY CNC**<br>
